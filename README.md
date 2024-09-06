@@ -1,2 +1,5 @@
 # algorithms
-Everything Is eally interesting if you go deeply into it - richard p. feyman
+
+implementing various nns and algorithms
+
+inspired by -> [atharva](https://github.com/vovw/algorithms)
